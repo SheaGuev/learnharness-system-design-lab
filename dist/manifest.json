@@ -1,0 +1,11 @@
+{
+  "apiVersion": 1,
+  "id": "system-design-lab",
+  "name": "System Design Lab",
+  "version": "0.1.0",
+  "minAppVersion": "0.7.0",
+  "description": "Interactive architecture diagrams for system design lessons: animated request flows, failure injection and a load slider that exposes bottlenecks. The teacher writes a small `sysdesign` JSON block; it renders instantly with no extra model calls.",
+  "main": "main.js",
+  "backend": "backend.cjs",
+  "styles": "styles.css"
+}

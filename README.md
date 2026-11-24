@@ -62,3 +62,7 @@ symlink. Set `LEARNHARNESS_PLUGINS_DIR` to install into a different plugins fold
 
 First install on a new machine: clone this repo, run `scripts/install.sh`, restart
 LearnHarness, then enable the plugin in the app's plugin settings.
+
+## License
+
+[MIT](LICENSE). LearnHarness itself is AGPL-3.0; this plugin uses only its public plugin API and contains no LearnHarness code.
